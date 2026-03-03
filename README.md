@@ -11,10 +11,9 @@ The DS18B20 temperature sensor is interfaced with the ESP32 using the One-Wire c
 | DATA        | GPIO 4           |
 | VCC         | 3.3V             |
 
-A 4.7kΩ pull-up resistor is connected between the DATA pin and 3.3V to ensure proper One-Wire communication.
 
 ## Circuit Diagram
-![Circuit Diagram](image.png)
+![Circuit Diagram](circuit.png)
 
 ## Description
 
